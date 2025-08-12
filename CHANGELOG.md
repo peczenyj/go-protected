@@ -1,4 +1,7 @@
 ## What's Changed
+* update changelog
+
+## What's Changed in v0.2.1
 * skip older go versions
 * bump golang.org/x/sync and use go 1.23
 * Merge pull request #15 from peczenyj/dependabot/github_actions/actions/checkout-5
@@ -11,6 +14,8 @@
 * Merge pull request #7 from peczenyj/dependabot/github_actions/codecov/codecov-action-5.3.1
 * Bump codecov/codecov-action from 5.1.2 to 5.3.1
 * Update semaphore.go
+
+**Full Changelog**: https://github.com///compare/v0.2.0...v0.2.1
 
 ## What's Changed in v0.2.0
 * bump version
