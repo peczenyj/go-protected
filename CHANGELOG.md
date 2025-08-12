@@ -1,4 +1,19 @@
+## What's Changed
+* skip older go versions
+* bump golang.org/x/sync and use go 1.23
+* Merge pull request #15 from peczenyj/dependabot/github_actions/actions/checkout-5
+* Bump actions/checkout from 4 to 5
+* fix makefile
+* migrate golangci configuration to v2
+* update workflow
+* Merge pull request #11 from peczenyj/dependabot/github_actions/golangci/golangci-lint-action-7
+* Bump golangci/golangci-lint-action from 6 to 7
+* Merge pull request #7 from peczenyj/dependabot/github_actions/codecov/codecov-action-5.3.1
+* Bump codecov/codecov-action from 5.1.2 to 5.3.1
+* Update semaphore.go
+
 ## What's Changed in v0.2.0
+* bump version
 * small doc improvement
 * Merge pull request #6 from peczenyj/add-semaphore-protected-var
 * fix examples
