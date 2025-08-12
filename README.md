@@ -1,7 +1,7 @@
 # go-protected
 
 [![tag](https://img.shields.io/github/tag/peczenyj/go-protected.svg)](https://github.com/peczenyj/go-protected/releases)
-![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.18-%23007d9c)
+![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.23-%23007d9c)
 [![GoDoc](https://pkg.go.dev/badge/github.com/peczenyj/go-protected)](http://pkg.go.dev/github.com/peczenyj/go-protected)
 [![Go](https://github.com/peczenyj/go-protected/actions/workflows/go.yml/badge.svg)](https://github.com/peczenyj/go-protected/actions/workflows/go.yml)
 [![Lint](https://github.com/peczenyj/go-protected/actions/workflows/lint.yml/badge.svg)](https://github.com/peczenyj/go-protected/actions/workflows/lint.yml)
